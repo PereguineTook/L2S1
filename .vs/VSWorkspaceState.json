@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.git",
     "\\.github",
     "\\docs",
     "\\public",
-    "\\src"
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\api",
+    "\\src\\pages\\api\\siwe",
+    "\\src\\utils",
+    "\\src\\utils\\siwe"
   ],
-  "SelectedNode": "\\public",
+  "SelectedNode": "\\src\\utils\\siwe\\configureSIWE.tsx",
   "PreviewInSolutionExplorer": false
 }
