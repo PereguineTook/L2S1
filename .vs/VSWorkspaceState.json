@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.git",
+    "\\.github",
+    "\\docs",
+    "\\public",
+    "\\src"
+  ],
+  "SelectedNode": "\\public",
+  "PreviewInSolutionExplorer": false
+}
